@@ -40,7 +40,7 @@ body {
 
 .contenedorHeader__header ul {
     display: flex;
-    /* background-color: rgb(186, 32, 32); */
+    background-color: rgb(186, 32, 32);
     width: 30vw;
     height: 60vh;
     align-items: center;
